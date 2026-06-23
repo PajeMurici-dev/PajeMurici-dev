@@ -1,7 +1,16 @@
-<h1 align="center">Meu nome é Edvaldo, estou no 4º semestre de engenharia de software, buscando por oportunidades profissionais para aprender mais sobre backend, análise de dados e machine learning.</h1>
+<h1 align="center">Edvaldo Brasileiro</h1>
 
 <p align="center">
-🎓 Estudante de Engenharia de Software - Universidade de Brasília (UnB)
+🎓 Estudante de Engenharia de Software - UnB
+</p>
+
+<p align="justify">
+Sou estudante de Engenharia de Software na Universidade de Brasília (UnB),
+interessado por tecnologia e desenvolvimento de software. Sou aspirante a desenvolvedor
+backend, bancos de dados e machine learning, atualmente buscando por
+oprtunidades profissionais para aprimorar os meus conhecimentos nas minhas
+áreas de interesse.
+</p>
 </p>
 
 <p align="center">
