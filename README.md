@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Meu nome é Edvaldo, estou no 4º semestre de engenharia de software, buscando por oportunidades profissionais para aprender mais sobre backend, análise de dados e machine learning.</h1>
 
-<!--
-**PajeMurici-dev/PajeMurici-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Estudante de Engenharia de Software - Universidade de Brasília (UnB)
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+💻 Desenvolvedor em formação | Backend | APIs | Banco de Dados
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Interesse em:
+  - Desenvolvimento Backend
+  - APIs REST
+  - Banco de Dados
+  - Machine Learning
+  - IA
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Web
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 🛠️ Banco de Dados
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+
+![](https://github-readme-stats.vercel.app/api?username=PajeMurici-dev&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PajeMurici-dev&layout=compact&theme=tokyonight)
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🛒 Sistema de Mercado
+Sistema web utilizando Bottle e SQLite.
+
+### 📚 Projeto Guard.IA
+Projeto desenvolvido visando a segurança digital de crianças e adolescentes.
+
+---
+
+## 📫 Contato
+
+- Email: edfilho.brasileiro218@gmail.com
