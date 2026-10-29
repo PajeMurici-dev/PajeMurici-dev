@@ -60,11 +60,12 @@
 
 ---
 
+
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PajeMurici-dev&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PajeMurici-dev&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PajeMurici-dev&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PajeMurici-dev&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Linguagens mais utilizadas"/>
 </p>
 
 ---
@@ -74,12 +75,12 @@
 ### Sistema de Mercado — Mercado BIG BOM
 
 Aplicação web desenvolvida com Python, Bottle e SQLite, com funcionalidades de gerenciamento de produtos e autenticação de usuários.
-**Repositório:** [Mercado BigBom] (https://github.com/PajeMurici-dev/mercado-big-bom)
+**Repositório:** (https://github.com/PajeMurici-dev/mercado-big-bom)
 
 ### Guard.IA
 
 Projeto colaborativo voltado à segurança digital de crianças e adolescentes, desenvolvido no contexto acadêmico.
-**Repositório:** [Guard.IA] (https://github.com/unb-mds/2026-1-Guard.IA)
+**Repositório:** (https://github.com/unb-mds/2026-1-Guard.IA)
 
 ### Comparação entre ResNet-50 e GoogLeNet para Detecção de Deepfakes
 
