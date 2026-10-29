@@ -74,10 +74,12 @@
 ### Sistema de Mercado — Mercado BIG BOM
 
 Aplicação web desenvolvida com Python, Bottle e SQLite, com funcionalidades de gerenciamento de produtos e autenticação de usuários.
+**Repositório:** [Mercado BigBom] (https://github.com/PajeMurici-dev/mercado-big-bom)
 
 ### Guard.IA
 
 Projeto colaborativo voltado à segurança digital de crianças e adolescentes, desenvolvido no contexto acadêmico.
+**Repositório:** [Guard.IA] (https://github.com/unb-mds/2026-1-Guard.IA)
 
 ### Comparação entre ResNet-50 e GoogLeNet para Detecção de Deepfakes
 
